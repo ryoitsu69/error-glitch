@@ -1,7 +1,6 @@
-This theme is a supplement to Simple Desktop Display Manager.
-It utilizes QTQuick 2.0, QT Multimedia 5.0, and Qt Labs Settings 1.0.
+Sddm theme using mp4 as a background and custom console as a control method. 
+type "hodor" to start login
+"hodor restart" to restart
+"hodor shutshown" to shutdown
+ctrl+z to reset input
 
-This theme is inspired by:
-    League of Legends Lulu
-    
-All rights belong to Riot Games.
