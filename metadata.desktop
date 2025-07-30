@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=glitch-error
+Description=glitch-error
+Author=Ryoitsu
+Copyright=(c) 2025, Ryoitsu
+License=None
+Type=sddm-theme
+Version=1.1
+Website=https://github.com/Ryoitsu69/glitch-error
+Screenshot=resources/thumbnail.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=my@anal.cash
+Theme-Id=glitch-error
+Theme-API=2.0
